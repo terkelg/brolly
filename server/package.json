@@ -1,0 +1,25 @@
+{
+  "name": "brolly-server",
+  "version": "1.0.0",
+  "description": "MQTT broker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
+  "keywords": [
+    "mqtt",
+    "socket",
+    "server",
+    "backend"
+  ],
+  "author": "Terkel Gjervig",
+  "license": "MIT",
+  "dependencies": {
+    "math-toolbox": "^1.2.0",
+    "mosca": "^2.2.0"
+  },
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}
