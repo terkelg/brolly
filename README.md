@@ -46,15 +46,15 @@ Canvas game made using [PIXI.JS](https://github.com/pixijs/pixi.js), and [MQTT.j
 
 
 ## Setup Controller/NodeMCU
-[Controller README.md](*)
+[Controller README.md](controller/README.md)
 
 
 ## Setup Server
-[Server README.md](*)
+[Server README.md](server/README.md)
 
 
 ## Setup Game
-[Game README.md](*)
+[Game README.md](game/README.md)
 
 
 ## Links
@@ -62,4 +62,4 @@ Canvas game made using [PIXI.JS](https://github.com/pixijs/pixi.js), and [MQTT.j
 - https://github.com/nodemcu/nodemcu-firmware
 
 ## Copyright
-@ Terkel Gjervig
+*@ Terkel Gjervig*
