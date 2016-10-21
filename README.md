@@ -16,7 +16,7 @@ This project is build in 3 days as part of a course in computational design and 
 The entire setup consists of three parts:
 
 1. **Controller:** Umbrella with NodeMCU and sensors.
-2. **Server:** MQTT broker to pass communication back and forth from between umbrella and game.
+2. **Server:** MQTT broker to pass communication back and forth between umbrella and game.
 3. **Game:** Front-end canvas game
 
 ### 1. Controller/Umbrella
