@@ -9,7 +9,6 @@ The speed depends on how collapsed the umbrella is, where an fully opened umbrel
 
 The umbrella uses one flex sensor to detect how open/closed the umbrella are, two tilt sensors, a battery pack and a ESP8266 WiFi module to create a WiFI access point for MQTT communication.
 
-This project is build in 3 days as part of a course in computational design and IoT at the Danish School of Media and Journalism.
 
 ## How it works
 
@@ -42,7 +41,7 @@ Forwards events form the controller to the front-end and at the same time proces
 ### 3. Game/Front-end
 Canvas game made using [PIXI.JS](https://github.com/pixijs/pixi.js), and [MQTT.js](https://github.com/mqttjs/MQTT.js) for client-side MQTT.
 
-*Built in a few hours in the middle of the night the day before delivery, prepare for spaghetti code, brain-farts and bugs.*
+*Built in a few hours the night before delivery, prepare for spaghetti code, brain-farts and bugs.*
 
 
 ## Setup Controller/NodeMCU
