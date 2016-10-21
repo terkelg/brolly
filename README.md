@@ -7,7 +7,7 @@ You're a little guy flying with his umbrella through a dangerous world full of o
 As the player, you control the speed by opening and closing the umbrella, and you move the player left/right by tilting.
 The speed depends on how collapsed the umbrella is, where an fully opened umbrella is max speed and a closed umbrella is minimum speed.
 
-The umbrella uses one flex sensor to detect how open/closed the umbrella are, two tilt sensors, a battery pack and a ESP8266 WiFi module to create a WiFI access point for MQTT communication.
+The umbrella uses one flex sensor to detect how open/closed the umbrella is, two tilt sensors, a battery pack and a ESP8266 WiFi module to create a WiFI access point for MQTT communication.
 
 
 ## How it works
