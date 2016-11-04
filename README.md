@@ -1,7 +1,8 @@
 # Brolly
 > A little umbrella game, you control with an actual umbrella - wireless of course.
 
-![](media/brolly.gif)
+![](https://vimeo.com/190290020)
+**[See short case video here](https://vimeo.com/190290020)**
 
 You're a little guy flying with his umbrella through a dangerous world full of obstacles.
 As the player, you control the speed by opening and closing the umbrella, and you move the player left/right by tilting.
